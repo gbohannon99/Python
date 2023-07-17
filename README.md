@@ -1,5 +1,3 @@
-# Python-Exercises
-
 # Python Skill Development
   Welcome to my Python Skill Development repository! This repository serves as a platform for me 
   to hone my Python programming skills by working on various exercises and projects.
