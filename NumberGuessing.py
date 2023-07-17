@@ -2,6 +2,7 @@
 
 #The objective of this program is to create a program that generates a random number and prompts the user to guess it. 
 #The program should provide hints to the user, such as "too high" or "too low," until the correct number is guessed
+#The program should handle all test cases where the user enters something other than a number or enters something out of the boundaries of 1-20
 
 
 import random 
@@ -21,11 +22,12 @@ while Guess == False:
 
     user_guess = int(user_guess)
     
-    #Checks if the guess is within the boundaries 
+    #Checks if the user wants to quit
     if(user_guess == 000):
         print("\nExiting the Game...")
         break
-    
+        
+    #Checks if the guess is within the boundaries 
     elif(user_guess > 20 or user_guess < 1):
         print("\nNumber is out of range! Guess a number between 1-20! ")
         user_guess = input("Enter A New Guess: ")
