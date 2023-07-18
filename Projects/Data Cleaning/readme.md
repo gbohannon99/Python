@@ -2,7 +2,7 @@
 
 # Customer Data Cleaning and Transformation
 
-This project focuses on learning how to clean and transform customer data using the Python library Pandas. The objective is to clean a customer dataset to determine which customers can be contacted and provide it to the sales team.
+This project focuses on learning how to clean and transform customer data using the Python library Pandas. The objective is to clean a customer dataset to determine which customers can be contacted and provide it to the sales team. I have added the 'original' and 'cleaned data' into the folder
 
 ## Getting Started
 
