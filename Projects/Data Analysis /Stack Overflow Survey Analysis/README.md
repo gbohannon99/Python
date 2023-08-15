@@ -37,5 +37,5 @@ This project aims to analyze the Stack Overflow Developer Survey data to gain in
 
 1. Clone this repository to your local machine:
    ```sh
-   git clone https://github.com/gbohannon99/developer-survey-analysis.git
+https://github.com/gbohannon99/Python.git
 
