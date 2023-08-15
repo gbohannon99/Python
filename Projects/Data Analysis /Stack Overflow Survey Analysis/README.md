@@ -36,6 +36,6 @@ This project aims to analyze the Stack Overflow Developer Survey data to gain in
 ## How to Use
 
 1. Clone this repository to your local machine:
-   ```sh  https://github.com/gbohannon99/Python.git
+   ```sh git clone https://github.com/gbohannon99/Python.git
 
 
