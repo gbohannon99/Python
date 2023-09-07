@@ -2,6 +2,9 @@
 
 This repository contains various sorting algorithms implemented in Python. It serves as a learning resource for understanding and implementing different sorting techniques. You can use these algorithms as reference material, study guides, or integrate them into your projects.
 
+For each of how my sorts I used the random library so I could generate random values every time to be sorted through. I have it to where the values are printed before and after each sort so you get an 
+  understanding of what they looked like before the sort. Below these how-to's are generic to help get you started 
+
 ## Table of Contents
 
 1. [Bubble Sort](#bubble-sort)
