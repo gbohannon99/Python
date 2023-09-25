@@ -3,12 +3,10 @@
 Welcome to the London Bike Sharing Data Analysis project repository. In this project, I conducted a comprehensive analysis of London's bike-sharing dataset, exploring trends, weather impacts, and seasonal patterns. Below, you'll find an overview of the project and how to replicate it.
 
 ## Project Overview
-- Tableau Visualization: https://public.tableau.com/app/profile/griffin.bohannon/viz/LondonBikeRides_16955885083760/Dashboard1
 
-- **Objective:** Analyze London bike sharing data to provide insights and inform decision-making.
+- **Objective:** Analyze London bike-sharing data to provide insights and inform decision-making.
 - **Data Source:** Kaggle London Bike Sharing Dataset.
 - **Tools Used:** Python (Pandas), Tableau.
-- **GitHub Repository:** [Link to Repository](#)
 
 ## Key Achievements
 
@@ -51,6 +49,9 @@ To replicate this project on your local machine, follow these steps:
 5. Visualize with Tableau:
 - Import the cleaned dataset, "London Bikes Final," into Tableau.
 - Use Tableau to recreate the visualizations and explore the data further.
+
+Tableau Visualization: 
+- https://public.tableau.com/app/profile/griffin.bohannon/viz/LondonBikeRides_16955885083760/Dashboard1
 
 ## Contributors
 
