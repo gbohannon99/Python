@@ -24,31 +24,8 @@ Welcome to the London Bike Sharing Data Analysis project repository. In this pro
    - Implemented interactive tooltips for additional visuals.
    - Enabled users to explore bike ride details by weather and hour, enhancing user experience.
 
-## How to Replicate
-
-To replicate this project on your local machine, follow these steps:
-
-1. Clone the Repository:
-
-2. Install Dependencies:
-- Ensure you have Python and Tableau installed on your machine.
-- Install Python libraries by running:
-  
-  ```
-  pip install pandas
-  ```
-
-3. Access the Dataset:
-- Retrieve the dataset from Kaggle: https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
-- Store the dataset as "london_bike_sharing.csv" in the project directory.
-
-4. Run the Code:
-- Open the Jupyter Notebook (or your preferred code editor).
-- Execute the provided Python script for data analysis and cleaning.
-
-5. Visualize with Tableau:
-- Import the cleaned dataset, "London Bikes Final," into Tableau.
-- Use Tableau to recreate the visualizations and explore the data further.
+Kaggle Dataset: 
+- https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
 Tableau Visualization: 
 - https://public.tableau.com/app/profile/griffin.bohannon/viz/LondonBikeRides_16955885083760/Dashboard1
